@@ -6,7 +6,7 @@ function SingleVideo({ thumb__img, profile__img, title, chaneel__name, views, ti
            <div className="col__4">
                <Link to="/watch/:id">
            <div className="thumbnail__img relative">
-               <img src={thumb__img} alt=""
+               <img src="https://hips.hearstapps.com/hmg-prod/images/wednesday-jenna-ortega-2-1654540590.jpg?crop=1.00xw:0.978xh;0,0&resize=480:*" alt=""
                 className="thumb__img pointer" 
                 style={{"width":"100%"}}
                />
@@ -16,9 +16,8 @@ function SingleVideo({ thumb__img, profile__img, title, chaneel__name, views, ti
            </div>
            <div className="description__option d__flex">
                <div className="profile__img">
-               <img src={profile__img} 
-                className="channel__image pointer"
-               />
+               <img src="https://hips.hearstapps.com/hmg-prod/images/wednesday-jenna-ortega-2-1654540590.jpg?crop=1.00xw:0.978xh;0,0&resize=480:*" alt="" className="channel__image pointer"/>
+               
                </div>
                <div className="title d__flex align__items__center justify__content__center">
                    <span className="title">

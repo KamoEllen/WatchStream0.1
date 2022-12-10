@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 function Watch() {
   return (
@@ -16,7 +15,7 @@ function Watch() {
               <iframe
                 width="100%"
                 height="383"
-                src="https://www.youtube.com/embed/gIHjLTmKHgM"
+                src="https://www.youtube.com/watch?v=pPosAHahdXI"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -304,14 +303,12 @@ function Watch() {
                   lineHeight: "1.5",
                 }}
               >
-                1 Year Skinny To Muscular Body Transformation At Home. 1 Year
-                Skinny To Muscular Body Transformation At Home. Thank you for
-                watching my 1 year body transformation! Going from skinny to
-                muscular is tough enough and even harder when you don't have the
-                resources you wish you had, but the sky is the limit and It all
-                requires you to take action. An at home body transformation is
-                something many people out there who don't have gyms have to do &
-                It's just been the best journey for me and I'm
+                --------------------------------------
+                --------------------------------------
+                --------------------------------------
+                --------------------------------------
+                -------------------------------------
+                ----------------------------
               </p>
             </div>
 
@@ -353,7 +350,7 @@ function Watch() {
               flex: ".4",
             }}
           >
-            <a href="https://www.youtube.com/watch?v=EMCQrwsrh_o">
+            <a href="https://www.youtube.com/watch?v=pPosAHahdXI">
               <div
                 className="single__suggestion d__flex"
                 style={{
@@ -393,8 +390,7 @@ function Watch() {
                       padding: "0px 15px",
                     }}
                   >
-                    নতুনরা জিমে এসে যেভাবে ব্যায়াম শুরু করবেন এবং কি কি
-                    খাবেন|First Day at GYM|Workout For Beginners
+                    Wednesday Stream
                   </span>
                   <span
                     className="chaneel__name"
@@ -404,7 +400,7 @@ function Watch() {
                       color: "#111",
                     }}
                   >
-                    T H R Fitness
+                    Wednesday Stream
                   </span>
                   <span
                     className="timestamps"
@@ -459,8 +455,7 @@ function Watch() {
                     padding: "0px 15px",
                   }}
                 >
-                  নতুনরা জিমে এসে যেভাবে ব্যায়াম শুরু করবেন এবং কি কি
-                  খাবেন|First Day at GYM|Workout For Beginners
+                 Stream/ Watch
                 </span>
                 <span
                   className="chaneel__name"
@@ -524,8 +519,9 @@ function Watch() {
                     padding: "0px 15px",
                   }}
                 >
-                  নতুনরা জিমে এসে যেভাবে ব্যায়াম শুরু করবেন এবং কি কি
-                  খাবেন|First Day at GYM|Workout For Beginners
+                  ---------------------
+                  ------------------------
+                  --------------------
                 </span>
                 <span
                   className="chaneel__name"
@@ -589,8 +585,7 @@ function Watch() {
                     padding: "0px 15px",
                   }}
                 >
-                  নতুনরা জিমে এসে যেভাবে ব্যায়াম শুরু করবেন এবং কি কি
-                  খাবেন|First Day at GYM|Workout For Beginners
+                  Watch Later
                 </span>
                 <span
                   className="chaneel__name"
@@ -654,8 +649,8 @@ function Watch() {
                     padding: "0px 15px",
                   }}
                 >
-                  নতুনরা জিমে এসে যেভাবে ব্যায়াম শুরু করবেন এবং কি কি
-                  খাবেন|First Day at GYM|Workout For Beginners
+                  ----------------------------
+                  ----------------------------
                 </span>
                 <span
                   className="chaneel__name"
@@ -719,8 +714,8 @@ function Watch() {
                     padding: "0px 15px",
                   }}
                 >
-                  নতুনরা জিমে এসে যেভাবে ব্যায়াম শুরু করবেন এবং কি কি
-                  খাবেন|First Day at GYM|Workout For Beginners
+                  ---------------------------------
+                  ----------------------------------
                 </span>
                 <span
                   className="chaneel__name"
@@ -730,7 +725,7 @@ function Watch() {
                     color: "#111",
                   }}
                 >
-                  T H R Fitness
+                  Stream
                 </span>
                 <span
                   className="timestamps"
